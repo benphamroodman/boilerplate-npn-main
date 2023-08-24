@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "ben",
+	"author": "Ben",
 	"description": "A neat package",
 	"keywords": [ "descriptive", "related", "words", "freecodecamp"],
 	"license": "MIT",
